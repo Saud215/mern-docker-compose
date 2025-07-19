@@ -12,7 +12,7 @@ mv .env.example .env
 
 Edit `.env` and fill in required variables (DB URI, JWT secret, etc.).
 
-**Note :** Make sure you have docker compose installed along with the docker
+**Note :** Make sure you have docker compose installed along with the docker.
 ## Run
 
 ```bash
