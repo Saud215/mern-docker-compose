@@ -16,11 +16,11 @@ Edit `.env` and fill in required variables (DB URI, JWT secret, etc.).
 ## Run
 
 ```bash
-docker-compose --env-file .env up --build
+docker compose --env-file .env up --build
 ```
 
 ## Stop
 
 ```bash
-docker-compose down
+docker compose down
 ```
