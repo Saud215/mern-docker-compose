@@ -1,4 +1,4 @@
-# MERN Docker Compose
+# mern-docker-compose
 
 A fully Dockerized MERN (MongoDB, Express, React, Node.js) stack.
 
